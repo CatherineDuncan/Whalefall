@@ -2,10 +2,12 @@ body{
     background-color: #ada284;
 } 
 h1{
- font-family: 'Old typewriter', sans-serif;
+    font-family: 'Old typewriter', sans-serif;
 }
 h2{
-    font-family: 'Century Schoolbook', sans-serif;
+    font-family: 'Type Keys', sans-serif;
+    font-family: 'Type Keys Filled', sans-serif;
+                                                
 }
 h3{                                                                   
     font-family: 'Century Schoolbook', sans-serif;
