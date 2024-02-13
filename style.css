@@ -17,14 +17,6 @@ img{
     height: auto;
 }
     
-.homebuttons {
-    display: inline;
-    li {
-        float: left;
-      }
-      
-      a {
-        display: block;
-        padding: 8px;
-      }
+.navbar{
+  display: inline;
 }
