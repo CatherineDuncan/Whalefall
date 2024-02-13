@@ -17,8 +17,6 @@ img{
     height: auto;
 }
     
-.homebuttons{
-    li {
-        display: inline;
-      }
+li{
+    display: inline;
 }
