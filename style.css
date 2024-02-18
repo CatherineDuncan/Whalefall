@@ -9,6 +9,16 @@ h2{
     font-family: 'Type Keys Filled', sans-serif;
                                                 
 }
+
+li{
+    display: inline;
+}
+
+a {
+    font-family: 'Type Keys', sans-serif;
+    font-family: 'Type Keys Filled', sans-serif;
+  }
+
 h3{                                                                   
     font-family: 'Century Schoolbook', sans-serif;
 }
@@ -17,6 +27,4 @@ img{
     height: auto;
 }
     
-li {
-  display: inline;
-}
+
