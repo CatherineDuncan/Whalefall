@@ -17,6 +17,10 @@ h2{
     color: black
 }
 
+.navbar:hover{
+    color: white
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -51,6 +55,10 @@ img{
     font-family: 'Type Keys Filled', sans-serif;
     font-size: 35px;
     color: black 
+}
+
+.bottomnav:hover{
+    color: white
 }
 
 ul {
