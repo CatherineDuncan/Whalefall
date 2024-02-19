@@ -22,7 +22,7 @@ ul {
   margin: 0;
   padding: 12;
   overflow: hidden;
-  background-color: #364231;
+  background-color: #242b17;
 }
 
 li {
@@ -30,8 +30,8 @@ li {
 }
 
 li {
-  border-right: 50px solid #364231;
-  border-left: 50px solid #364231;
+  border-right: 50px solid #242b17;
+  border-left: 50px solid #242b17;
 }
 
 li:last-child {
@@ -58,7 +58,7 @@ ul {
     margin: 0;
     padding: 12;
     overflow: hidden;
-    background-color: #364231;
+    background-color: #242b17;
   }
   
   li {
@@ -66,8 +66,8 @@ ul {
   }
   
   li {
-    border-right: 50px solid #364231;
-    border-left: 50px solid #364231;
+    border-right: 50px solid #242b17;
+    border-left: 50px solid #242b17;
   }
   
   li:last-child {
