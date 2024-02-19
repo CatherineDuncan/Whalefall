@@ -30,14 +30,13 @@ li {
 
 li a {
   display: block;
-  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li {
-  border-right: 120px solid #364231;
+  border-right: 200px solid #364231;
 }
 
 
