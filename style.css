@@ -45,5 +45,34 @@ img{
     width: 100%;
     height: auto;
 }
+
+.bottomnav {
+    font-family: 'Type Keys', sans-serif;
+    font-family: 'Type Keys Filled', sans-serif;
+    font-size: 35px;
+    color: black 
+}
+.media{
+    list-style-type: none;
+    margin: 0;
+    padding: 12;
+    overflow: hidden;
+    background-color: #364231;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li {
+    border-right: 50px solid #364231;
+    border-left: 50px solid #364231;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+
+   
     
 
