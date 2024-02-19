@@ -13,7 +13,8 @@ h2{
 .navbar{
     font-family: 'Type Keys', sans-serif;
     font-family: 'Type Keys Filled', sans-serif;
-    font-size: 35px
+    font-size: 35px;
+    color: black
 }
 
 ul {
