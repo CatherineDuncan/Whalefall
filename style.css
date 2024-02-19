@@ -21,6 +21,10 @@ h2{
     color: white
 }
 
+a{
+    color: black;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
