@@ -21,7 +21,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #364231;
+  background-color: #353d26;
 }
 
 li {
@@ -37,7 +37,7 @@ li a {
 }
 
 li {
-  border-right: 120px solid #364231;
+  border-right: 150px solid #353d26;
 }
 
 li:last-child {
