@@ -10,6 +10,17 @@ h2{
                                                 
 }
 
+.container {
+    position: relative;
+    text-align: center;
+  }
+  
+  .title {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+
 .navbar{
     font-family: 'Type Keys', sans-serif;
     font-family: 'Type Keys Filled', sans-serif;
