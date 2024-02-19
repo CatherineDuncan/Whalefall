@@ -13,14 +13,15 @@ h2{
 .navbar{
     font-family: 'Type Keys', sans-serif;
     font-family: 'Type Keys Filled', sans-serif;
-  }
+    font-size: 35px
+}
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #364231;
 }
 
 li {
@@ -33,6 +34,14 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+li {
+  border-right: 120px solid #364231;
+}
+
+li:last-child {
+  border-right: none;
 }
 
 h3{                                                                   
