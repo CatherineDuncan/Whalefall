@@ -37,9 +37,8 @@ li a {
 }
 
 li {
-  border-right: 200px solid #364231;
+    border-right: 120px solid #364231;
 }
-
 
 li:last-child {
   border-right: none;
