@@ -77,8 +77,20 @@ img{
     color: black 
 }
 
-.bottomnav:hover{
-    color: white
+#twitter:hover{
+  color:white 
+}
+
+#insta:hover{
+  color:white 
+}
+
+#tumblr:hover{
+  color:white 
+}
+
+#podcatcher:hover{
+  color:white 
 }
 
 ul {
