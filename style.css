@@ -19,8 +19,24 @@ h2{
         }
 }
 
-.navbar:hover{
+#news:hover{
     color: white
+}
+
+#map:hover{
+    color:white
+}
+
+#about:hover{
+    color:white
+}
+
+#history:hover{
+    color:white
+}
+
+#events:hover{
+    color:white 
 }
 
 
