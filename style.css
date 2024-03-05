@@ -19,6 +19,29 @@ h2{
         }
 }
 
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.welcome {
+  position: absolute;
+  bottom: 90px;
+  right: 16px;
+  font-size: 45px;
+}
+
+.square {
+  height: 550px;
+  width: 550px;
+  background-color:#b7bdaf;
+  filter: blur(40px);
+  position: absolute;
+  bottom: 40px;
+  right: 16px;
+}
+
 #news:hover{
     color: white
 }
