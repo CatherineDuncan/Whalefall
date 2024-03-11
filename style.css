@@ -1,13 +1,12 @@
 body{
-    background-color: #ada284;
-} 
+    background-color:#ada284;
+}
 h1{
     font-family: 'Old typewriter', sans-serif;
 }
 h2{
     font-family: 'Type Keys', sans-serif;
     font-family: 'Type Keys Filled', sans-serif;
-                                                
 }
 
 .navbar{
@@ -18,7 +17,6 @@ h2{
             color: black;
         }
 }
-
 
 .container {
   position: relative;
@@ -42,6 +40,11 @@ h2{
   font-size: 45px;
 }
 
+
+
+
+
+
 #news:hover{
     color: white
 }
@@ -62,41 +65,40 @@ h2{
     color:white 
 }
 
-
-
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 12;
-  overflow: hidden;
-  background-color: #242b17;
-}
-
-li {
-  float: left;
-}
-
-li {
-  border-right: 50px solid #242b17;
-  border-left: 50px solid #242b17;
-}
-
-li:last-child {
-  border-right: none;
-}
-
-h3{                                                                   
+    list-style-type: none;
+    margin: 0;
+    padding: 12;
+    overflow: hidden;
+    background-color: #242b17;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li {
+    border-right: 50px solid #242b17;
+    border-left: 50px solid #242b17;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+h3{
     font-family: 'Century Schoolbook', sans-serif;
 }
+
 img{
     width: 100%;
     height: auto;
 }
 
 .townpara{
-  margin: 80px 50px
+  margin: 75px 45px
 
 }
+
 
 .bottomnav {
     font-family: 'Type Keys', sans-serif;
@@ -120,7 +122,6 @@ img{
 #podcatcher:hover{
   color:white 
 }
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -143,5 +144,3 @@ ul {
   }
 
    
-    
-
