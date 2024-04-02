@@ -18,10 +18,13 @@ img{
     font-family: 'Type Keys', sans-serif;
     font-family: 'Type Keys Filled', sans-serif;
     font-size: 35px;
-        a{
-            color: black;
-        }
+       
 }
+
+a{
+  color: black;
+}
+
 #news:hover{
     color: white
 }
@@ -84,3 +87,50 @@ ul {
     right: 120px;
     font-size: 45px;
   }
+
+
+.bottomnav {
+    font-family: 'Type Keys', sans-serif;
+    font-family: 'Type Keys Filled', sans-serif;
+    font-size: 35px;
+    color: black 
+}
+#home:hover{
+    color:white
+  }
+  
+#twitter:hover{
+    color:white 
+  }
+  
+#insta:hover{
+    color:white 
+  }
+  
+#tumblr:hover{
+    color:white 
+  }
+  
+#podcatcher:hover{
+    color:white 
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 12;
+    overflow: hidden;
+    background-color: #242b17;
+    }
+    
+li {
+    float: left;
+    }
+    
+li {
+    border-right: 50px solid #242b17;
+    border-left: 50px solid #242b17;
+    }
+    
+li:last-child {
+    border-right: none;
+    }
