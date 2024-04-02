@@ -1,0 +1,86 @@
+body{
+    background-color:#ada284;
+}
+h1{
+    font-family: 'Old typewriter', sans-serif;
+}
+h2{
+    font-family: 'Type Keys', sans-serif;
+    font-family: 'Type Keys Filled', sans-serif;
+}
+
+img{
+    width:100%;
+    height: auto;
+}
+
+.navbar{
+    font-family: 'Type Keys', sans-serif;
+    font-family: 'Type Keys Filled', sans-serif;
+    font-size: 35px;
+        a{
+            color: black;
+        }
+}
+#news:hover{
+    color: white
+}
+
+#map:hover{
+    color:white
+}
+
+#about:hover{
+    color:white
+}
+
+#history:hover{
+    color:white
+}
+
+#events:hover{
+    color:white 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 12;
+    overflow: hidden;
+    background-color: #242b17;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li {
+    border-right: 50px solid #242b17;
+    border-left: 50px solid #242b17;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+
+.container {
+    position: relative;
+    text-align: center;
+  }
+  
+.square {
+    height: 375px;
+    width: 375px;
+    background-color:#b7bdaf;
+    filter: blur(50px);
+    position: absolute;
+    bottom: 40px;
+    right: 70px;
+  }
+  
+.news {
+    position: absolute;
+    bottom: 140px;
+    right: 120px;
+    font-size: 45px;
+  }
