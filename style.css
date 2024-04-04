@@ -13,9 +13,11 @@ h2{
     font-family: 'Type Keys', sans-serif;
     font-family: 'Type Keys Filled', sans-serif;
     font-size: 35px;
-        a{
-            color: black;
-        }
+       
+}
+
+a{
+  color: black;
 }
 
 
