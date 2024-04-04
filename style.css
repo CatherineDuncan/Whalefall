@@ -10,34 +10,34 @@ h2{
 }
 
 .navbar{
-    font-family: 'Type Keys', sans-serif;
-    font-family: 'Type Keys Filled', sans-serif;
-    font-size: 35px;
-       
+  font-family: 'Type Keys', sans-serif;
+  font-family: 'Type Keys Filled', sans-serif;
+  font-size: 35px;
+     
 }
 
 a{
-  color: black;
+color: black;
 }
 
 #news:hover{
-    color: white
+  color: white
 }
 
 #map:hover{
-    color:white
+  color:white
 }
 
 #about:hover{
-    color:white
+  color:white
 }
 
 #history:hover{
-    color:white
+  color:white
 }
 
 #events:hover{
-    color:white 
+  color:white 
 }
 
 ul {
@@ -105,6 +105,10 @@ img{
     color: black 
 }
 
+#home:hover{
+  color:white
+}
+
 #twitter:hover{
   color:white 
 }
@@ -140,5 +144,4 @@ ul {
   li:last-child {
     border-right: none;
   }
-
    
