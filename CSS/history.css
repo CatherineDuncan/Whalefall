@@ -88,6 +88,10 @@ ul {
     font-size: 45px;
 }
 
+.timeline{
+  text-align: center;
+}
+
 h3{
   font-family: 'Century Schoolbook', sans-serif;
 }
@@ -181,5 +185,6 @@ ul {
   li:last-child {
     border-right: none;
   }
+
 
    
